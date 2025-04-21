@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Admas89
 - 👀 I’m interested to learn new things
 - 🌱 I’m currently learning Web development
-- 📫 How to reach me admy27h@gmail.come
+- 📫 How to reach me admy27h@gmail.com
 - ⚡ Fun fact: I am in senior swimm team
 
 <!---
